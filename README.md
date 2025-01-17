@@ -9,7 +9,7 @@
 Hi, I'm Kolade! I like to build cool stuff on the web 🌐, solve real-world problems 💡, and bring ideas to life 🚀. Whether it’s creating user-friendly web apps, crafting APIs, or collaborating at hackathons, I’m all about making an impact with code!  
 
 When I’m not coding, you’ll catch me:  
-- 🧩 Playing **Chess** or **Gomoku**  
+- Playing a competitive game of **Monopoly** 🤑 or strategizing in **Gomoku** 🧠
 - ⚽ Watching or playing football
 
 ---
