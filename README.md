@@ -21,7 +21,9 @@ When I’m not coding, you’ll catch me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40" alt="Node.js"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40" alt="Node.js"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" width="40" alt="Python"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" width="40" alt="Java"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" width="40" alt="PHP"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" width="40" alt="Docker"/>  
