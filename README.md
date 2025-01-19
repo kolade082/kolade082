@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Kolade  
 
-🎯 **Software Engineer** | 🛠️ **Problem Solver**  
+🎯 **Software Engineer**
 
 ---
 
