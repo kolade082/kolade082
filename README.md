@@ -51,15 +51,10 @@ When I’m not coding, you’ll catch me:
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kolade082&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kolade082&theme=radical" alt="GitHub Streak" height="180px"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kolade082&show_icons=true&theme=default" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kolade082&theme=default" alt="GitHub Streak" height="180px"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolade082&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</p>
-
 ### 🌐 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kolade-oluwadara-87563a245/)  
